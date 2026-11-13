@@ -1,0 +1,2 @@
+Wazuh FIM creation event
+Wazuh FIM modification event

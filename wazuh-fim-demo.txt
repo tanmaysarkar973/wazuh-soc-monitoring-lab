@@ -1,0 +1,2 @@
+First Wazuh FIM test
+Modified content for Wazuh detection
